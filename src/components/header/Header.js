@@ -1,5 +1,3 @@
-import AnimatedText from 'react-animated-text-content';
-
 function Header() {
   return (
     <div className="Header">
