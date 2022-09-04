@@ -4,6 +4,9 @@ import Header from './components/header/Header.js';
 import About from './components/panels/About';
 import Ethereum from './components/panels/Ethereum';
 import Skills from './components/panels/Skills';
+import Projects from './components/panels/Projects';
+import Contact from './components/panels/Contact';
+import Footer from './components/footer/Footer';
 
 function App() {
     return (
@@ -18,9 +21,12 @@ function App() {
                     </div>
                     <div className='Panels-bottom'>
                         <Ethereum />
+                        <Projects />
+                        <Contact />
                     </div>
                 </div>
             </div>
+            <Footer />
         </div>
     );
 }
