@@ -4,7 +4,7 @@ Live [website](https://github.com/facebook/create-react-app).
 
 ## Packages
 
-In the project directory, you can run:
+A simple and clean website built using react.
 
 # React
 ### `react`
